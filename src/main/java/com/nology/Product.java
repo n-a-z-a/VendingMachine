@@ -2,14 +2,16 @@ package com.nology;
 
 public class Product {
 
-    private String name;
-    private String category;
-    private double price;
+    String name, category;
+    double price;
+    int maxAmount, availableAmount;
 
-    public Product(String name, String category, double price) {
+    public Product(String name, String category, double price, int maxAmount, int availableAmount) {
         this.name = name;
         this.category = category;
         this.price = price;
+        this.maxAmount = maxAmount;
+        this.availableAmount = availableAmount;
     }
 
     public String getName() {
@@ -34,5 +36,22 @@ public class Product {
 
     public void setPrice(double price) {
         this.price = price;
+    }
+
+    public int getMaxAmount() {
+        return maxAmount;
+    }
+
+    public void setMaxAmount(int maxAmount) {
+        this.maxAmount = maxAmount;
+    }
+
+
+    public int getAvailableAmount() {
+        return availableAmount;
+    }
+
+    public void setAvailableAmount(int availableAmount) {
+        this.availableAmount = availableAmount;
     }
 }
