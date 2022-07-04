@@ -2,9 +2,9 @@ package com.nology;
 
 public class Product {
 
-    String name, category;
-    double price;
-    int maxAmount, availableAmount;
+    private String name, category;
+    private double price;
+    private int maxAmount, availableAmount;
 
     public Product(String name, String category, double price, int maxAmount, int availableAmount) {
         this.name = name;
@@ -17,7 +17,6 @@ public class Product {
     public String getName() {
         return name;
     }
-
     public void setName(String name) {
         this.name = name;
     }
