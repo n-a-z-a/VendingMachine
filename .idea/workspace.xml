@@ -5,20 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dd8688c4-fbfc-4e47-a4cc-bf577448ba85" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/nology/BuyProduct.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/nology/DisplayProducts.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/nology/FillVendingMachine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/nology/RefillVendingMachine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/nology/TakeStock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/nology/VendingMachineMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/nology/RVM.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/nology/CerealBars.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/nology/CerealBars.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/nology/ChocolateBars.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/nology/ChocolateBars.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/nology/Crisps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/nology/Crisps.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/nology/Drink.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/nology/Drink.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/nology/BuyProduct.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/nology/BuyProduct.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/nology/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/nology/Product.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/nology/SortByCategoryAndPriceComparator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/nology/SortByCategoryAndPriceComparator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/nology/VendingMachine.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/nology/RefillVendingMachine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/nology/RefillVendingMachine.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,6 +20,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
