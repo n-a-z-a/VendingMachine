@@ -8,7 +8,6 @@ public class DisplayProducts {
 
     FillVendingMachine fillVendingMachine = new FillVendingMachine();
     List<Product> products = fillVendingMachine.getProducts();
-    private int availableAmount = 0;
 
     private int getAvailableAmount(int min, int max) {
         return (int) (Math.random() * (max - min + 0) + min);

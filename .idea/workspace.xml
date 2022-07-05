@@ -5,11 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dd8688c4-fbfc-4e47-a4cc-bf577448ba85" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/nology/RVM.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/nology/BuyProduct.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/nology/BuyProduct.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/nology/DisplayProducts.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/nology/DisplayProducts.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/nology/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/nology/Product.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/nology/RefillVendingMachine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/nology/RefillVendingMachine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/nology/VendingMachineMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/nology/VendingMachineMain.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +21,7 @@
       <list>
         <option value="Class" />
         <option value="Interface" />
+        <option value="JUnit5 Test Class" />
       </list>
     </option>
   </component>
@@ -46,11 +47,21 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.nology" />
+    </key>
+  </component>
   <component name="RunManager" selected="Application.VendingMachineMain">
     <configuration name="VendingMachineMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.nology.VendingMachineMain" />

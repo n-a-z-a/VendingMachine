@@ -17,9 +17,6 @@ public class Product {
     public String getName() {
         return name;
     }
-    public void setName(String name) {
-        this.name = name;
-    }
 
     public String getCategory() {
         return category;
@@ -34,7 +31,6 @@ public class Product {
     public int getMaxAmount() {
         return maxAmount;
     }
-
 
 
     public int getAvailableAmount() {
